@@ -1,0 +1,15 @@
+.loginForm {
+    background-color: black;
+    padding: 5rem;
+    line-height: 3rem;
+}
+
+
+.loginForm button {
+    margin: 0 1rem;
+}
+
+.loginForm input {
+    padding: .5rem 1rem;
+    margin-left: .4rem;
+}

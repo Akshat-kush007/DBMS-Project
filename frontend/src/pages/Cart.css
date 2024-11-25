@@ -1,0 +1,14 @@
+.cartHolder > div  {
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+
+
+
+
+.cartHolder > div > div {
+    margin: 3rem;
+}
